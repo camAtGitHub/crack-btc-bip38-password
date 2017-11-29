@@ -1,4 +1,4 @@
-#Crack Bitcoin BIP38 password
+# Crack Bitcoin BIP38 password
 
 For those 'oh sh%%' moments, where you can't quite remember what the password of your paper wallet is.
 
